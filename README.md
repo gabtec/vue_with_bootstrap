@@ -3,9 +3,6 @@
 >1. Create a Vue Project with vue.cli
 ```
     $ vue init webpack-simple demoProj
-````
-**Note**: accept the use of SASS
-```
     $ cd demoProj
     $ npm install
 ````
