@@ -4,7 +4,7 @@
 ```
     $ vue init webpack-simple demoProj
 ````
-Note: accept the use of SASS
+**Note**: accept the use of SASS
 ```
     $ cd demoProj
     $ npm install
