@@ -19,8 +19,8 @@
 >3. Open Vue.js 'main.js' file and import libs
 ```
 	import 'jquery';
-	import './utils/bootstrap/js/bootstrap.min.js';
-	import './utils/bootstrap/css/bootstrap.min.css';
+  import '../node_modules/bootstrap/dist/js/bootstrap.min.js';
+  import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 ````
 
 >4. Optimize webpack.config.js file to manage the new dependencies, by addind this to the existing file:
