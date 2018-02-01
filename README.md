@@ -2,18 +2,18 @@
 
 >1. Create a Vue Project with vue.cli
 ```
-\$ vue init webpack-simple demoProj
-\  -> accept the use of SASS
+    $ vue init webpack-simple demoProj
 ````
+Note: accept the use of SASS
 ```
-$ cd demoProj
-$ npm install
+    $ cd demoProj
+    $ npm install
 ````
 
 >2. Install needed dependencies
 ```
-$ npm install --save-dev url-loader
-$ npm install --save jquery bootstrap@3	
+    $ npm install --save-dev url-loader
+    $ npm install --save jquery bootstrap@3	
 ````
 
 >3. Open Vue.js 'main.js' file and import libs
