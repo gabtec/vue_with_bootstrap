@@ -18,7 +18,7 @@
 
 >3. Open Vue.js 'main.js' file and import libs
 ```
-	import 'jquery';
+  import 'jquery';
   import '../node_modules/bootstrap/dist/js/bootstrap.min.js';
   import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 ````
